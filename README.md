@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
 | [0904-fruit-into-baskets](https://github.com/Miss-crazy/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Miss-crazy/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Miss-crazy/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -41,4 +42,20 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Miss-crazy/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
