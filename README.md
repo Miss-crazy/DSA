@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Miss-crazy/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Miss-crazy/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Miss-crazy/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Miss-crazy/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Miss-crazy/DSA/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
