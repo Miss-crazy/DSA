@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Miss-crazy/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Miss-crazy/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Miss-crazy/DSA/tree/master/0904-fruit-into-baskets) |
@@ -50,14 +51,20 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Miss-crazy/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Miss-crazy/DSA/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Miss-crazy/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Miss-crazy/DSA/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
