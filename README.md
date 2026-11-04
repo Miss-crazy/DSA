@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Miss-crazy/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Miss-crazy/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Miss-crazy/DSA/tree/master/0860-lemonade-change) |
@@ -51,6 +52,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Miss-crazy/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Miss-crazy/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Miss-crazy/DSA/tree/master/0860-lemonade-change) |
@@ -66,5 +68,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Miss-crazy/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Miss-crazy/DSA/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
