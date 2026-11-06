@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Miss-crazy/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0678-valid-parenthesis-string](https://github.com/Miss-crazy/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Miss-crazy/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@
 | [0055-jump-game](https://github.com/Miss-crazy/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Miss-crazy/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Miss-crazy/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Miss-crazy/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Miss-crazy/DSA/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
@@ -74,4 +76,13 @@
 | ------- |
 | [0055-jump-game](https://github.com/Miss-crazy/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Miss-crazy/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Miss-crazy/DSA/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Miss-crazy/DSA/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Miss-crazy/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
